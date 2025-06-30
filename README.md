@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Virtual Reality 👋</h1>
+<h1 align="center">Hi, I'm Sai Bharath 👋</h1>
 
 <p align="center">
   🚀 Data Science Enthusiast | 🤖 Computer Vision Developer | 💡 AI Explorer
